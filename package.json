@@ -1,0 +1,14 @@
+{
+  "name": "solana-web-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node generator.js"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.2.3",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+  }
+}
