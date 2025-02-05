@@ -13,3 +13,5 @@ cp .env.template .env
 paste in FAL_AI_API_KEY=<your api key here>
 npm run start
 ``
+
+<img src="example.jpg" alt="Serious Business" />
